@@ -1,5 +1,4 @@
 # HERM
-HERM áfangi, leikhús
 
 ### Verkefni: KAFFIHÚS
 
