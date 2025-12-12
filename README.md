@@ -1,19 +1,13 @@
 # T-502-HERM: Simulation
 
-*Briefly explain what the course is about.
+The cafe.ipynb and cafe.py fines in the main directory (the one you're in currently) are the final versions of each file. Disregard whetever's in each of our designated folders.
 
-"The focus of the course is to develop understanding of simulation concepts, and to clarify the advantages and limitations of simulation. We then look at discrete-event simulation using Simul8, a widely used simulation modeling language for a variety of application areas." <-- this is in the course description.
+### Subject Matter: A café
 
 Teacher: Ingunn Ýr Guðbrandsdóttir
 TA: Arnar Jónsson
 
-*We should also prbably mention our names, maybe fun trivia like what we're studying.
-
-### Subject Matter: A café
-
-*Abbreviate much of what's in the final report. Basically just explain what's included in the code. 
-
-*Also explain the repository's setup. Some important details:
+Some things to note:
 - Each of us have our own designated folders.
   - We're working with individual folders instead of branches because two of the people are new to git/GitHub, and we did not want there to be a learning curve.
 - Our combined efforts are merged into the cafe.ipynb notebook in the main directory.
