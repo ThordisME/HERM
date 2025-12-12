@@ -1,6 +1,6 @@
 # T-502-HERM: Simulation
 
-The cafe.ipynb and cafe.py fines in the main directory (the one you're in currently) are the final versions of each file. Disregard whetever's in each of our designated folders.
+The cafe.ipynb and cafe.py fines in the main directory (the one you're in currently) are the final versions of each file. Ignore whetever's in each of our designated folders.
 
 ### Subject Matter: A café
 
